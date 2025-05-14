@@ -1,7 +1,7 @@
 # Unveiling Key Features: A Comparative Study of Machine Learning Models for Alzheimer's Detection
 ## Paper and Code
 
-This repository is made public to share my master's thesis and the code involved, wherein I explore the ability of machine learning models to detect dementia in Alzheimer's screening patients.
+This repository is made public to share my master's thesis and the code involved, wherein I explore the ability of machine learning models to detect dementia in Alzheimer's screening patients. There is a small issue with the size of the section 2 notebook due to the output stored from the LimeTextExplainer. However, to view the section 2 notebook, it is as simple as downloading and opening yourself or following this link to [nbviewer.org](https://nbviewer.org/github/cobushnell11/thesis-alzheimers-detection/blob/main/Thesis_Section_2.ipynb).
 
 ### Abstract
 
